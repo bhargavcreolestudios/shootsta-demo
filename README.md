@@ -2,7 +2,7 @@
 
 **intro**
 ```
-there are two directories listed here. one is for
+there are two directories listed. one is for
 node server where we are going to upload a video.
 our server side API logic is also listed there.
 
